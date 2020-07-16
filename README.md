@@ -1,2 +1,2 @@
 # CS50ai
-Introduction to artificial intelligence with python
+Harvard's Introduction to artificial intelligence with python course
